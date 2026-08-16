@@ -41,17 +41,26 @@ My engineering background combines mechanical design and automotive development 
 
 ## 🚀 Featured Work
 
-### AI-Powered Vehicle Setup Optimization
+### [AI-Powered Vehicle Setup Optimization](https://github.com/migueeleflores/vehicle-setup-ai-showcase)
+
 Development of an AI-assisted system designed to analyze racing telemetry, identify vehicle behavior, and support data-driven setup optimization.
 
 **Technologies:** Python · PyTorch · CUDA · Machine Learning · Telemetry Analysis
 
 > Core development and proprietary implementation remain private.
 
+### [Vehicle Telemetry Analysis Demo](https://github.com/migueeleflores/vehicle-telemetry-analysis-demo)
+
+Public Python project for comparing synthetic racing laps using telemetry validation, engineering metrics, lap-delta analysis, visualization, automated tests, and continuous integration.
+
+**Technologies:** Python · Pandas · NumPy · Matplotlib · Pytest · GitHub Actions
+
 ### Formula SAE — Powertrain Engineering
+
 Four years of Formula SAE experience focused on powertrain development, including component research, mechanical design, engine and differential mounting solutions, simulation, analysis, and engineering documentation.
 
 ### Engineering Design & Simulation
+
 Academic and personal engineering projects involving CAD design, simulation, structural analysis, manufacturing, and automotive applications.
 
 ## 📫 Connect with me
