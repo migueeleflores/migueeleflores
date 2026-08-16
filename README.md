@@ -55,9 +55,11 @@ Public Python project for comparing synthetic racing laps using telemetry valida
 
 **Technologies:** Python · Pandas · NumPy · Matplotlib · Pytest · GitHub Actions
 
-### Formula SAE — Powertrain Engineering
+### [Formula SAE — Powertrain Engineering](https://github.com/migueeleflores/formula-sae-powertrain-engineering)
 
-Four years of Formula SAE experience focused on powertrain development, including component research, mechanical design, engine and differential mounting solutions, simulation, analysis, and engineering documentation.
+Four years of Formula SAE experience focused exclusively on powertrain/drivetrain development, including component research, drivetrain trade studies, mechanical design, engine and differential mounting solutions, packaging, analysis, and engineering documentation.
+
+**Technologies & Skills:** SolidWorks · Mechanical Design · Powertrain Integration · Drivetrain Packaging · Component Benchmarking · Trade-off Analysis
 
 ### Engineering Design & Simulation
 
